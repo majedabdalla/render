@@ -1,0 +1,6 @@
+python-telegram-bot==13.7
+flask==2.0.1
+psutil==5.9.0
+python-dotenv==0.19.2
+requests==2.27.1
+Werkzeug==2.3.7
